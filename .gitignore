@@ -59,3 +59,6 @@ typings/
 
 # cookies
 cookies.txt
+
+# Swp
+*.swp
